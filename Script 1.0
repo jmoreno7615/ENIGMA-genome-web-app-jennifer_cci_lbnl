@@ -1,0 +1,7 @@
+echo "# ENIGMA-genome-web-app-jennifer_cci_lbnl" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jmoreno7615/ENIGMA-genome-web-app-jennifer_cci_lbnl.git
+git push -u origin main
